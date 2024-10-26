@@ -1,0 +1,17 @@
+{
+	id: "7363a89b-c2a6-432b-ab51-febc41a3479f"
+	type: "player"
+	player_name: "NaoRYK"
+	ranks: {
+		7363a89b-c2a6-432b-ab51-febc41a3479f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NaoRYK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

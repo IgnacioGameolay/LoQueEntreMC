@@ -1,0 +1,17 @@
+{
+	id: "3ec4a526-b2e1-404d-ade7-f55980a9f283"
+	type: "player"
+	player_name: "IgnacioGameolay"
+	ranks: {
+		3ec4a526-b2e1-404d-ade7-f55980a9f283: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IgnacioGameolay"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
